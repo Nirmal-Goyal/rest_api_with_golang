@@ -1,0 +1,3 @@
+module REST_API_WITH_GOLANG
+
+go 1.26.2
